@@ -1,2 +1,2 @@
 # RegoleUI
-a UI that when you do / rules gives you all the rules (fixed)
+a UI that when you do /regole gives you all the rules (fixed)
