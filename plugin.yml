@@ -1,6 +1,6 @@
 name: RulesUI
 version: 1.0.0
-main: RulesUI\Main
+main: RegoleUI\Main
 api: [3.0.0]
 author: ItzIKen
 
