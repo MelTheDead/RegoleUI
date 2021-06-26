@@ -21,7 +21,7 @@ class Main extends PluginBase implements Listener {
     public function checkDepends(){
         $this->formapi = $this->getServer()->getPluginManager()->getPlugin("FormAPI");
         if(is_null($this->formapi)){
-            $this->getLogger()->info("§4Per favole metti FormAPI nella cartella plugins. disattivato RulesUi...");
+            $this->getLogger()->info("§4Per favore metti FormAPI nella cartella plugins. disattivato RulesUi...");
             $this->getPluginLoader()->disablePlugin($this);
         }
     }
